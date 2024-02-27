@@ -7,6 +7,6 @@
 <p>A partir das máquinas nas redes Pablo e Rossi deve ser possível acessar o site www.prova.com que está configurada na rede MMendonsa. As redes entre os roteadores deve ser /30 e utilizarem o protocolo RIP V.2 </p>
 
 
-[Video da resolução](https://pages.github.com/](https://youtu.be/cowoDTzlLzw)https://youtu.be/cowoDTzlLzw)
+[Video da resolução](https://youtu.be/cowoDTzlLzw)
  
 
